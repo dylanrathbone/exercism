@@ -1,4 +1,4 @@
-# Triangle
+q# Triangle
 
 Determine if a triangle is equilateral, isosceles, or scalene.
 
@@ -28,10 +28,10 @@ $ gradle test
 
 For more detailed info about the Java track see the [help page](http://exercism.io/languages/java).
 
-
 ## Source
 
 The Ruby Koans triangle project, parts 1 & 2 [http://rubykoans.com](http://rubykoans.com)
 
 ## Submitting Incomplete Solutions
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.
+
